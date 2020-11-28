@@ -2,7 +2,7 @@
 
 #### preview [here](https://v9n63.csb.app/)
 
-!(preview img)[https://github.com/kubo550/particles-behaviours-p5.ts/blob/main/p5ts-preview.png]
+![preview img](https://github.com/kubo550/particles-behaviours-p5.ts/blob/main/p5ts-preview.png)
 
 ## References
 
