@@ -1,6 +1,6 @@
 import P5 from "p5";
 import Particle from "./Particle";
-import _font from "./font.ttf";
+import _font from "./Orbitron-Medium.ttf";
 
 const sketch = (p5: P5) => {
   const particles: Particle[] = [];
